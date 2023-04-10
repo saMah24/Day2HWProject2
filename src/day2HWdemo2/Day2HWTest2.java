@@ -2,9 +2,9 @@ package day2HWdemo2;
 
 public class Day2HWTest2 {
 	
-	public static void main(String[] args) {
+	public void add() {
 		
-		System.out.println("Git HW Day 2 Project2...");
+		System.out.println("Pushing code for Project2...");
 	}
 	
 }
